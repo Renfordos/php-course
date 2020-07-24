@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PHP Store</title>
+</head>
+<body>
+<?php
+echo "<h1>What is this, you ask?</h1>";
+echo "<h2>Better ask what you want to see...</h2>";
+?>
+</body>
+</htm>
